@@ -62,15 +62,6 @@ iMessage Extension: Sticker Pack
 </p>
 A new way to create Launch Screen in iOS 14 app development
 
-## III. Video
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/bMMhHqHH84w/0.jpg)](https://www.youtube.com/watch?v=bMMhHqHH84w&ab_channel=CredoAcademy)
-
-## IV. Requirements
-- Xcode 14 from Apple (free)
-- macOS 13 Ventura from Apple (free)
-- Willing to create awesome apps by following the instructor step by step
-- You do not need any other prior programming experience or knowledge
-- Macintosh computer
 
 ## V. Credit
 <p align="center">
