@@ -62,13 +62,5 @@ iMessage Extension: Sticker Pack
 </p>
 A new way to create Launch Screen in iOS 14 app development
 
-
-## V. Credit
-<p align="center">
-<img width="200" alt="image" src="https://user-images.githubusercontent.com/32255348/231326634-9f0d1f6e-60e8-497f-9805-0a019c34f5fe.png">
-</p>
-
-</br>
-
 <p align="center">All rights reserved © SwiftUI Masterclass 2023 - iOS App Development & Swift | Robert Petras</p>
 <p align="center">SwiftUI • iOS • macOS • watchOS • iPadOS Developer</p>
